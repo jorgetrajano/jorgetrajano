@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Blog do Jorge</title>
+		<title>Portifólio | Jorge</title>
 		<link rel="stylesheet" href="style.css">
 	</head>
 
