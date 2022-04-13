@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(0, 0, 0, 0.986);
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+#title, .subtitle, .xp {
+    color: rgb(240, 236, 40);
+}
+.subtitle{
+    font-style: italic;
+}
+.perfil {
+    border: 2px solid #2df71b;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    
+}
+.sobre-mim {
+    font-size: 12px;
+    font-style: italic;
+    text-align: justify;
+}
+
+.post {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid #000;
+    text-align: justify;
+}
+.fotoback {
+    height: 450px;
+    width: 1170px;
+}
+.projetos {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid #000;
+    text-align: justify;
+}
+.contatos{
+    list-style-type: none;
+    padding: 15px;
+}
+.contatos li a {
+    text-decoration: none;
+}
